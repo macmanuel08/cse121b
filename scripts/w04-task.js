@@ -4,7 +4,7 @@
 
 const myProfile = {
   name: "John Mark Manuel",
-  photo: "../images/mark.jpg",
+  photo: "images/mark.jpg",
   favoriteFoods: ["Pizza", "Green Mango", "Scrambled Egg with Onion (Omelette)", "Noodles"],
   hobbies: ["Playing Online/Mobile Games", "Listening to Music", "Watching Movies"],
   placesLived: [],
