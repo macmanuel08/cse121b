@@ -35,6 +35,7 @@ document.getElementById('name').innerHTML = myProfile.name;
 
 /* Photo with attributes */
 document.getElementById('photo').setAttribute('src', myProfile.photo);
+document.getElementById('photo').setAttribute('alt', myProfile.name);
 
 /* Favorite Foods List*/
 myProfile.favoriteFoods.forEach(food => {
